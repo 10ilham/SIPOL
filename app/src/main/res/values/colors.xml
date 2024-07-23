@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="biru">#309BF1</color>
+    <color name="biru_muda">#73CDF6</color>
+    <color name="biru_gelap">#07114C</color>
+    <color name="putih_smoke">#F5F5F5</color>
+    <color name="abu_abu">#79403E3E</color>
+    <color name="abu_abu_muda">#79D9D9D9</color>
+</resources>
